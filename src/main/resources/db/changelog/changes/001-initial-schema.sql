@@ -1,4 +1,5 @@
 CREATE TABLE customer
 (
     id   INT PRIMARY KEY,
-    name VARCHAR
+    name VARCHAR(50)
+);
