@@ -3,3 +3,9 @@ databaseChangeLog:
       file: classpath:/db/changelog/changes/001-initial-schema.sql
   - include:
       file: classpath:/db/changelog/changes/002-initial-customer-data.sql
+  - include:
+      file: classpath:/db/changelog/changes/003-create-users-and-addresses-schema.sql
+  - include:
+      file: classpath:/db/changelog/changes/004-insert-data-addresses.sql
+  - include:
+      file: classpath:/db/changelog/changes/005-insert-data-users.sql
