@@ -81,3 +81,25 @@ Liquibase: Update has been successful. Rows affected: 8
 ```
 
 ### Image Screenshots
+
+H2 Console
+
+![H2 Console](img/h2-console.png "H2 Console")
+
+View Tables
+
+![View Tables](img/tables.png "View Tables")
+
+Customer Table
+
+![Customer Table](img/customer.png "Customer Table")
+
+User Table
+
+![User Table](img/user.png "User Table")
+
+Change Log
+
+![Change Log](img/changelog1.png "Change Log")
+
+![Change Log](img/changelog2.png "Change Log")
